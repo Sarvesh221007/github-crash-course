@@ -17,3 +17,7 @@ function newFeatureAddB(){
     console.log("This is a new Feature")
     console.log("This is a new Feature B")
 }
+function newFeatureAddC(){
+    console.log("This is a new Feature")
+    console.log("This is a new Feature C")
+}
