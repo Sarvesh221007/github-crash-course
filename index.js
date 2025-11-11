@@ -10,4 +10,5 @@ function greet(name) {
 
 function newFeatureAdd(){
     console.log("This is a new Feature")
+    console.log("This is a new Feature A")
 }
