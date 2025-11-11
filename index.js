@@ -1,1 +1,13 @@
-const age = 24;
+
+const name = "Sarvesh Singh"
+const dob = '01/01/2000'
+
+function greet(name) {
+  return `Hello, ${name}! Welcome to my project.`;
+}
+
+
+
+function newFeatureAdd(){
+    console.log("This is a new Feature")
+}
